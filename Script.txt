@@ -1,0 +1,66 @@
+a = 'Hello world'
+b = 2
+c = true
+
+print(b+2)
+print(c == false)
+
+function d()
+   print(a)
+
+   function e()
+	print('uewfiuef')
+   end
+
+e()
+end
+
+for i = 1,20 do
+   print(i)
+a = 'Hello world'
+b = 2
+c = true
+
+print(b+2)
+print(c == false)
+
+function d()
+   print(a)
+
+   function e()
+	print('uewfiuef')
+   end
+
+e()
+end
+
+for i = 1,20 do
+   print(i)
+a = 'Hello world'
+b = 2
+c = true
+
+print(b+2)
+print(c == false)
+
+function d()
+   print(a)
+
+   function e()
+	print('uewfiuef')
+   end
+
+e()
+end
+
+for i = 1,20 do
+   print(i)
+end
+
+d()
+end
+
+d()
+end
+
+d()
