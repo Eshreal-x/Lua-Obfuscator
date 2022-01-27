@@ -6,7 +6,7 @@ requires lua 5.1 and nodejs to be installed
 
     Obfuscator written by me.
     Minifier was made by Stravant and rewritten in js by Herrtt.
-    rerubi was used to make my VM generation. the VM itself is also based on rerubi.
+    The VM is based on rerubi.
 
 
 
